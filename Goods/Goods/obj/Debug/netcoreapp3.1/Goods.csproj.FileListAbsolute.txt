@@ -1,0 +1,13 @@
+C:\Users\Workstation\source\repos\Goods\Goods\bin\Debug\netcoreapp3.1\Goods.exe
+C:\Users\Workstation\source\repos\Goods\Goods\bin\Debug\netcoreapp3.1\Goods.deps.json
+C:\Users\Workstation\source\repos\Goods\Goods\bin\Debug\netcoreapp3.1\Goods.runtimeconfig.json
+C:\Users\Workstation\source\repos\Goods\Goods\bin\Debug\netcoreapp3.1\Goods.runtimeconfig.dev.json
+C:\Users\Workstation\source\repos\Goods\Goods\bin\Debug\netcoreapp3.1\Goods.dll
+C:\Users\Workstation\source\repos\Goods\Goods\bin\Debug\netcoreapp3.1\Goods.pdb
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.AssemblyInfoInputs.cache
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.AssemblyInfo.cs
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.dll
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.pdb
+C:\Users\Workstation\source\repos\Goods\Goods\obj\Debug\netcoreapp3.1\Goods.genruntimeconfig.cache

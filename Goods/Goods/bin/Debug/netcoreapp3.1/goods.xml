@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ArrayOfGoods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Goods xsi:type="Product">
+    <LabelOfProduct>Сыр</LabelOfProduct>
+    <Price>500</Price>
+    <Date>02.02.2019</Date>
+    <LifeCount>14</LifeCount>
+  </Goods>
+  <Goods xsi:type="Product">
+    <LabelOfProduct>Масло</LabelOfProduct>
+    <Price>200</Price>
+    <Date>01.01.2019</Date>
+    <LifeCount>14</LifeCount>
+  </Goods>
+  <Goods xsi:type="Product">
+    <LabelOfProduct>Колбаса</LabelOfProduct>
+    <Price>300</Price>
+    <Date>30.06.2019</Date>
+    <LifeCount>20</LifeCount>
+  </Goods>
+  <Goods xsi:type="Product">
+    <LabelOfProduct>Молоко</LabelOfProduct>
+    <Price>100</Price>
+    <Date>02.02.2019</Date>
+    <LifeCount>20</LifeCount>
+  </Goods>
+  <Goods xsi:type="Product">
+    <LabelOfProduct>Сметана</LabelOfProduct>
+    <Price>80</Price>
+    <Date>02.02.2019</Date>
+    <LifeCount>20</LifeCount>
+  </Goods>
+  <Goods xsi:type="Product">
+    <LabelOfProduct>Оливки</LabelOfProduct>
+    <Price>60</Price>
+    <Date>02.02.2019</Date>
+    <LifeCount>30</LifeCount>
+  </Goods>
+  <Goods xsi:type="Consignment">
+    <LabelOfCons>Хлеб</LabelOfCons>
+    <Price>30000</Price>
+    <Count>1</Count>
+    <Date>02.02.2019</Date>
+    <LifeCount>7</LifeCount>
+  </Goods>
+</ArrayOfGoods>
